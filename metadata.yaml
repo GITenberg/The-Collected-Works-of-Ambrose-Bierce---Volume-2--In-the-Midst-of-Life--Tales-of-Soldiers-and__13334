@@ -1,0 +1,43 @@
+_repo: The-Collected-Works-of-Ambrose-Bierce---Volume-2--In-the-Midst-of-Life--Tales-of-Soldiers-and__13334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+    - http://www.gutenberg.org/ebooks/author/44231
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, American'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'War stories, American'
+tableOfContents: A horseman in the sky -- An occurrence at Owl Creek Bridge -- Chickamauga
+  -- A son of the gods -- One of the missing -- Killed at Resaca -- The affair at
+  Coulter's Notch -- The coup de grâce -- Parker Addison, philosopher -- An affair
+  of outposts -- The story of a conscience -- One kind of officer -- One officer,
+  one man -- George Thurston -- The mocking-bird -- The man out of the nose -- An
+  adventure at Brownville -- The famous Gilson bequest -- The applicant -- A watcher
+  by the dead -- The man and the snake -- A holy terror -- The suitable surroundings
+  -- The boarded window -- A lady from Red Horse -- The eyes of the panther.
+title: 'The Collected Works of Ambrose Bierce — Volume 2: In the Midst of Life: Tales
+  of Soldiers and Civilians'
+url: http://www.gutenberg.org/ebooks/13334
